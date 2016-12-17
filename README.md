@@ -9,6 +9,10 @@ variables are declared by 😍
 
 assignments are made with 😘
 
-## line ending
+## Line Ending
 every line ends with ❤️
+
+## Compilation
+LoveLang compiles into a love letter.
+No compiler has yet been built.
 
