@@ -1,9 +1,6 @@
 # LoveLang
 An emoji based programming language
 
-## Hello World
-🎤 hello world ❤️
-
 ## Variables
 variables are declared by 😍
 
@@ -15,4 +12,16 @@ every line ends with ❤️
 ## Compilation
 LoveLang compiles into a love letter.
 No compiler has yet been built.
+
+## Examples 
+
+### Hello World
+🎤 hello world ❤️
+
+###
+😍 foo 😘 bar ❤️
+🎤 foo ❤️
+
+output: bar
+
 
