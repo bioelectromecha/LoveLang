@@ -6,6 +6,7 @@ An emoji based programming language
 
 ## Variables
 variables are declared by 😍
+
 assignments are made with 😘
 
 ## line ending
