@@ -9,6 +9,9 @@ assignments are made with 😘
 ## Line Ending
 every line ends with ❤️
 
+## Comments
+comments start and end with ✋
+
 ## Compilation
 LoveLang compiles into a love letter.
 No compiler has yet been built.
@@ -24,6 +27,6 @@ No compiler has yet been built.
 🎤 foo ❤️
 
 
-output: bar
+✋ output: bar ✋
 
 
